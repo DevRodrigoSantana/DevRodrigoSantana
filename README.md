@@ -31,6 +31,6 @@ Alguns projetos estão privatos em desenvolvimento. Quiser descobrir sobre algum
   <a href="https://www.linkedin.com/in/rodrigo-santana-8966b6222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+![snake gif](https://github.com/DevRodrigoSantana/DevRodrigoSantana/blob/output/github-contribution-grid-snake.svg)
 
 
