@@ -2,8 +2,13 @@
 
 Alguns projetos estão privatos em desenvolvimento. Quiser descobrir sobre algum em especifico mande mensagem na dm  para que eu compartilhe com voc~e a visualizaação.
 
-
-
+##
+<div align="center">
+  <a href="https://github.com/DevRodrigoSantana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoSantana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRodrigoSantana&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+ 
 ##
 
 <div style="display: inline_block"><br>
@@ -14,7 +19,9 @@ Alguns projetos estão privatos em desenvolvimento. Quiser descobrir sobre algum
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-c-plus" height="40" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="Rodrigo-spring" height="40" width="60" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="Rodrigo-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+
   
   ##
  
