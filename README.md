@@ -1,6 +1,6 @@
 ## Olá eu sou a  Rodrigo Santana, desenvolvedor BackEnd e Mobile!
 
-Alguns projetos estão privatos em desenvolvimento. Quiser descobrir sobre algum em especifico pessa para que eu compartilhe com voc~e a visualizaação.
+Alguns projetos estão privatos em desenvolvimento. Quiser descobrir sobre algum em especifico mande mensagem na dm  para que eu compartilhe com voc~e a visualizaação.
 
 
 
