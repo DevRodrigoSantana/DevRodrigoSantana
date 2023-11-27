@@ -1,3 +1,10 @@
+## Olá eu sou a  Rodrigo Santana, desenvolvedor BackEnd e Mobile!
+
+Alguns projetos estão privatos em desenvolvimento. Quiser descobrir sobre algum em especifico pessa para que eu compartilhe com voc~e a visualizaação.
+
+
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-java" height="40" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
