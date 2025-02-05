@@ -1,4 +1,4 @@
-## Olá eu sou Rodrigo Santana, desenvolvedor BackEnd e Mobile!
+## Olá eu sou Rodrigo Santana, desenvolvedor Back End e Mobile!
 
 Alguns projetos estão privatos em desenvolvimento. Quiser descobrir sobre algum em especifico mande mensagem na dm  para que eu compartilhe com voc~e a visualizaação.
 
